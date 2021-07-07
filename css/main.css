@@ -81,3 +81,44 @@ body {
   border-radius: 30%;
   color: var(--mainBlack);
 }
+
+/* -----------Hero ----------------------- */
+
+.hero {
+  min-height: calc(100vh - 60px);
+  background: url("/img/hero-background.jpg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner {
+  text-align: center;
+  background: var(--ligthGreenColor);
+  display: inline-block;
+  padding: 2rem;
+}
+
+.banner-title {
+  font-size: 3.4rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  margin-bottom: 3rem;
+}
+
+.banner-btn {
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  font-size: 1rem;
+  background: var(--greenColor);
+  color: var(--mainBlack);
+  border: 1px solid var(--greenColor);
+  transition: var(--mainTransition);
+  cursor: pointer;
+}
+
+.banner-btn:hover {
+  background: transparent;
+  color: var(--greenColor);
+}
