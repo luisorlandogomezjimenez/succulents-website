@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Succulent One",
+        "price": 5.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/succulentone.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Succulent Two",
+        "price": 6.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/succulenttwo.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Succulent Three",
+        "price": 3.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/succulentthree.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Succulent Four",
+        "price": 7.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/succulentfour.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Succulent Five",
+        "price": 8.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/succulentfive.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Flower Pot One",
+        "price": 9.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/flowerpot1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Flower Pot Two",
+        "price": 9.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/flowerpot2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Flower Pot Three",
+        "price": 9.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/flowerpot3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Flower Pot Four",
+        "price": 9.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/flowerpot4.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
