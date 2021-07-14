@@ -125,6 +125,48 @@
           }
         }
       }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Tools One",
+        "price": 15.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/tool1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Tools Two",
+        "price": 20.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/tool2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Tools Three",
+        "price": 19.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./img/tool3.jpg"
+            }
+          }
+        }
+      }
     }
   ]
 }
